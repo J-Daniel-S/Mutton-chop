@@ -1,0 +1,86 @@
+{
+	"stocks": [
+		{
+			"ticker": "INTC",
+			"currentPrice": "45.94",
+			"marginOfSafety": 0.25,
+			"lastDate": "2019-12-28",
+			"cashYield": "7.4",
+			"MCap": "196485365760",
+			"enterpriseValue": "281213850000",
+			"sharesOut": "4417000000",
+			"oddPercentGrowth": false,
+			"newCompany": false,
+			"safeValue": "51.35",
+			"fairValue": "68.47",
+			"evEbitda": "8.56",
+			"fcf": [
+				"16932000000",
+				"14611750000"
+			],
+			"rOnAssets": "21",
+			"rOnCapital": "20",
+			"croic": "16.47",
+			"equityToDebt": "3.0",
+			"cashOnHand": "4194000000",
+			"cashToDebt": "0.17",
+			"changeInDebt": "210000000",
+			"capEfficiency": [
+				"18",
+				"7",
+				"-26",
+				"-21",
+				"1"
+			],
+			"fcfChange": [
+				"18.81",
+				"11.71"
+			],
+			"profitMargin": [
+				"46",
+				"38"
+			]
+		},
+		{
+			"ticker": "HCC",
+			"currentPrice": "12.99",
+			"marginOfSafety": 0.5,
+			"lastDate": "2018-12-31",
+			"cashYield": "46.1",
+			"MCap": "664587904",
+			"enterpriseValue": "1572623480",
+			"sharesOut": "52812000",
+			"oddPercentGrowth": true,
+			"newCompany": true,
+			"safeValue": "236.94",
+			"fairValue": "473.87",
+			"evEbitda": "2.59",
+			"fcf": [
+				"457776000",
+				"306126750"
+			],
+			"rOnAssets": "49",
+			"rOnCapital": "59",
+			"croic": "38.77",
+			"equityToDebt": "1.0",
+			"cashOnHand": "205577000",
+			"cashToDebt": "0.44",
+			"changeInDebt": "125283000",
+			"capEfficiency": [
+				"292",
+				"798",
+				"-365",
+				"-397",
+				"-1"
+			],
+			"fcfChange": [
+				"33.9",
+				"33.9"
+			],
+			"profitMargin": [
+				"40",
+				"8"
+			]
+		}
+	]
+}
